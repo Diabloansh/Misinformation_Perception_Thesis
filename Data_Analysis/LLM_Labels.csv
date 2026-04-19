@@ -1,0 +1,38 @@
+id,text,topic,framework1_feature1,framework1_feature2,framework1_feature3,condition,cue_type_final
+458,Soaking your feet in warm mustard oil pulls a fever down because the heat from the oil forces the hot blood to move away from your head.,health,1,0,0,latent,central
+492,Applying fresh milk directly to your face removes all types of minor skin wrinkles.,health,0,0,1,latent,neutral
+151,Beware: a terrifying new WhatsApp forward will instantly lock your phone and steal all your private photos.,technology,0,1,0,recent,peripheral
+482,Stop drinking tap water without boiling it immediately before it silently causes severe and untreatable damage to your kidneys.,health,0,1,0,latent,peripheral
+328,Urgent message: forward this to ten groups right now to stop your social media account from being permanently locked by the government.,technology,0,1,0,new,peripheral
+63,Act fast and delete this common navigation app before it drains your bank account without any warning!,technology,0,1,0,recent,peripheral
+112,"Prominent doctors warn that drinking cold drinks immediately after eating hot street food will cause a sudden, fatal cardiac arrest.",health,0,1,0,new,peripheral
+141,Updating your phone software drains your battery faster as the new code requires constant background processing to index files.,technology,1,0,0,recent,central
+174,Eating an apple on an empty stomach prevents the formation of stomach ulcers.,health,0,0,1,recent,neutral
+126,Walking barefoot on morning grass improves your visual acuity.,health,0,0,1,recent,neutral
+494,Consuming a small bowl of roasted chana for breakfast drastically improves your nighttime sleep.,health,0,0,1,latent,neutral
+475,Do not use the free Wi-Fi at coffee shops or your entire digital life and all your passwords will be instantly stolen by cyber criminals!,technology,0,1,0,latent,peripheral
+477,Renowned cyber experts warn that leaving your phone location turned on is the biggest threat to your personal safety in the city today.,technology,0,1,0,latent,peripheral
+370,Shocking truth: leading city hospitals are hiding a deadly new stomach bug that is spreading rapidly through local vegetable markets right now.,health,0,1,0,new,peripheral
+460,"Swallowing a spoonful of pure ghee before meals coats your stomach lining, which physically prevents spicy food from burning your insides.",health,1,0,0,latent,central
+84,Using facial recognition in the dark breaks your front camera sensor by overworking the infrared dot projector.,technology,1,0,0,recent,central
+233,Keeping your phone in your pocket degrades the network signal because the human body's water content physically blocks radio frequency waves.,technology,1,0,0,new,central
+335,The new mobile software update uses twice as much of your daily internet data.,technology,0,0,1,new,neutral
+27,Regular consumption of green tea stops hair fall within two weeks.,health,0,0,1,new,neutral
+89,Chewing raw ginger lowers blood sugar immediately by blocking the enzyme that breaks down complex carbohydrates in the stomach.,health,1,0,0,recent,central
+158,Beware of this highly contagious and fatal new skin disease spreading uncontrollably through imported cosmetics!,health,0,1,0,recent,peripheral
+491,Turning off your phone screen during a phone call makes your battery last for two extra days.,technology,0,0,1,latent,neutral
+252,Stop eating unwashed grapes immediately before a highly toxic new pesticide permanently destroys your liver!,health,0,1,0,recent,peripheral
+463,Leaving your laptop plugged into the TV using a cable burns the laptop out because the TV sends extra power back through the wire.,technology,1,0,0,latent,central
+134,Drinking warm milk with turmeric heals internal wounds as the curcumin actively repairs damaged cellular walls in the gut.,health,1,0,0,recent,central
+74,Eating two bananas a day eliminates the risk of painful muscle cramps.,health,0,0,1,new,neutral
+480,Emergency medical warning: a mysterious new skin allergy is sending completely healthy children to the hospital across all major towns this week.,health,0,1,0,latent,peripheral
+99,Top IT experts warn that the new mobile software update is secretly a government spyware tool designed to record your private conversations.,technology,0,1,0,new,peripheral
+437,Online shopping websites quietly increase the price of an item if you view it more than twice.,technology,0,0,1,new,neutral
+308,Eating plain curd before sleeping helps you lose weight by burning the extra fat stored in your stomach while you rest.,health,1,0,0,new,central
+465,Deleting old voice notes frees up your phone RAM because the audio player app no longer has to hold those sound files in its active memory.,technology,1,0,0,latent,central
+196,Rubbing lemon peel on your teeth whitens them because the citric acid permanently strips away the yellow enamel layer.,health,1,0,0,new,central
+493,Free mobile games use up your phone battery faster even when you play them without the internet.,technology,0,0,1,latent,neutral
+349,Bluetooth earphones save a copy of your voice commands on their internal memory chip.,technology,0,0,1,recent,neutral
+307,Using a fake charger heats up your phone because it pushes electricity into the battery in uneven bursts instead of a smooth flow.,technology,1,0,0,new,central
+269,Messaging applications save a permanent copy of your voice notes on their central servers.,technology,0,0,1,recent,neutral
+,,,12,12,12,,
