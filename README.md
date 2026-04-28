@@ -1,14 +1,11 @@
 # Misinformation-Perception-Thesis
 
-A research project investigating the relationship between misinformation exposure and individual perception patterns through data analysis, feature engineering, and classification modeling.
-
 ## Overview
 
-This thesis explores how misinformation affects public perception and belief formation. Through comprehensive data analysis and computational research, this project examines the mechanisms by which false or misleading information spreads and impacts audience credibility perception.
+Through comprehensive data analysis and computational research, this project examines the mechanisms by which false or misleading information impacts audience credibility perception.
 
 ## Project Goals
 
-- **Analyze** the spread and impact of misinformation across different datasets and contexts
 - **Understand** cognitive mechanisms behind misinformation acceptance and believability judgments
 - **Identify** patterns in how perception is shaped by false information using tweet and news data
 - **Develop** predictive models for misinformation classification
@@ -128,46 +125,13 @@ The project utilizes multiple datasets:
 
 ## Methodology
 
-- **Research Focus:** Understanding how misinformation affects user perception and believability judgments
+- **Research Focus:** Understanding how misinformation affects believability judgments
 - **Data Collection:** Combination of survey-based and crowdsourced data
 - **Analysis Approach:** Feature extraction, statistical analysis, and machine learning classification
 - **Evaluation:** Cross-validation and performance metrics for model assessment
 
-## Key Findings
-
-[Research findings and insights will be detailed here as analysis progresses]
-
-## Limitations
-
-[Limitations and potential biases in the research will be documented]
-
-## Future Work
-
-- Expand classification models with deep learning approaches
-- Incorporate temporal analysis of misinformation spread
-- Develop real-time misinformation detection system
-- Cross-cultural believability analysis
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit issues or pull requests to improve this research.
-
-## License
-
-[Add your chosen license - e.g., MIT, Apache 2.0, CC BY 4.0]
-
 ## Author
 
-**Anagha Bhat** - [AnaghaBh](https://github.com/AnaghaBh)
-
-## Acknowledgments
-
-[Add acknowledgments for advisors, collaborators, funding sources, and datasets]
-
-## Contact
-
-For questions or inquiries about this research, please open an issue or contact the repository owner.
-
----
+**Anagha Bhavsar** - [AnaghaBh](https://github.com/AnaghaBh)
 
 **Last Updated:** April 2026
