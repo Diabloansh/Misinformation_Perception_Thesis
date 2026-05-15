@@ -1,0 +1,930 @@
+[
+    {
+        "id": 1,
+        "text": "San Francisco had twice as many drug overdose deaths as COVID deaths last year.",
+        "framework1_feature1": 0,
+        "framework1_feature2": 0,
+        "framework1_feature3": 1,
+        "topic": "health"
+    },
+    {
+        "id": 2,
+        "text": "Foxconn is the largest taxpayer in Racine County.",
+        "framework1_feature1": 0,
+        "framework1_feature2": 0,
+        "framework1_feature3": 1,
+        "topic": "technology"
+    },
+    {
+        "id": 3,
+        "text": "In the last 10 years less than half of adults in the U.S. received a flu shot.",
+        "framework1_feature1": 1,
+        "framework1_feature2": 0,
+        "framework1_feature3": 0,
+        "topic": "health"
+    },
+    {
+        "id": 4,
+        "text": "Nick Freitas supports a plan letting insurance companies deny coverage for preexisting conditions like asthma or diabetes.",
+        "framework1_feature1": 0,
+        "framework1_feature2": 1,
+        "framework1_feature3": 0,
+        "topic": "health"
+    },
+    {
+        "id": 5,
+        "text": "Says 1 in 5 Texans did not have health insurance coverage before the pandemic, and now nearly 1 in 3 Texans under the age of 65 dont have access to health care insurance.",
+        "framework1_feature1": 1,
+        "framework1_feature2": 0,
+        "framework1_feature3": 0,
+        "topic": "health"
+    },
+    {
+        "id": 6,
+        "text": "On home health workers low pay and limited benefits, 40% are still on SNAP or Medicaid.",
+        "framework1_feature1": 1,
+        "framework1_feature2": 0,
+        "framework1_feature3": 0,
+        "topic": "health"
+    },
+    {
+        "id": 7,
+        "text": "Our health department, our city and our county declared racism as a public health crisis last year.",
+        "framework1_feature1": 0,
+        "framework1_feature2": 0,
+        "framework1_feature3": 1,
+        "topic": "health"
+    },
+    {
+        "id": 8,
+        "text": "Research illustrates a clear correlation between vitamin D deficiencies and (higher) COVID-19 mortality rates.",
+        "framework1_feature1": 1,
+        "framework1_feature2": 0,
+        "framework1_feature3": 0,
+        "topic": "health"
+    },
+    {
+        "id": 9,
+        "text": "Says gloves shouldnt be worn in public because if you are wearing the same set of gloves all over town you are only spreading germs everywhere you go.",
+        "framework1_feature1": 0,
+        "framework1_feature2": 1,
+        "framework1_feature3": 0,
+        "topic": "health"
+    },
+    {
+        "id": 10,
+        "text": "Go look at other countries that went through exactly this, started to reopen, and then they saw the infection rate go back up again.",
+        "framework1_feature1": 0,
+        "framework1_feature2": 1,
+        "framework1_feature3": 0,
+        "topic": "health"
+    },
+    {
+        "id": 11,
+        "text": "Africans living in China now being forced to sleep outside in the cold as Chinese nationals blame them for the rising number of new coronavirus cases in the country.",
+        "framework1_feature1": 0,
+        "framework1_feature2": 1,
+        "framework1_feature3": 0,
+        "topic": "health"
+    },
+    {
+        "id": 12,
+        "text": "Republicans have shown themselves willing to cut millions off their health insurance and eliminate preexisting condition protections for millions more, even in the middle of this public health crisis.\"",
+        "framework1_feature1": 1,
+        "framework1_feature2": 0,
+        "framework1_feature3": 0,
+        "topic": "health"
+    },
+    {
+        "id": 13,
+        "text": "Says of the coronavirus threat, there was not a single suggestion by anyone, a doctor, a scientist, a political figure, that we needed to cancel Mardi Gras.",
+        "framework1_feature1": 0,
+        "framework1_feature2": 1,
+        "framework1_feature3": 0,
+        "topic": "health"
+    },
+    {
+        "id": 14,
+        "text": "Twitter is banned in Iran.",
+        "framework1_feature1": 0,
+        "framework1_feature2": 0,
+        "framework1_feature3": 1,
+        "topic": "technology"
+    },
+    {
+        "id": 15,
+        "text": "\"Last year, 36 million Americans didnt have a prescription filled because they couldnt afford it.\"",
+        "framework1_feature1": 1,
+        "framework1_feature2": 0,
+        "framework1_feature3": 0,
+        "topic": "health"
+    },
+    {
+        "id": 16,
+        "text": "If you're a black woman, you're 320% more likely to die from complications in childbirth.",
+        "framework1_feature1": 1,
+        "framework1_feature2": 0,
+        "framework1_feature3": 0,
+        "topic": "health"
+    },
+    {
+        "id": 17,
+        "text": "If we make no changes over the next 10 years, Americans will reach into their pockets and pay out about $11 trillion on insurance premiums, copays, deductibles and uncovered medical expenses.",
+        "framework1_feature1": 1,
+        "framework1_feature2": 0,
+        "framework1_feature3": 0,
+        "topic": "health"
+    },
+    {
+        "id": 18,
+        "text": "Americans say that what they want is a choice to join a single-payer system like Medicare rather than ending private insurance.",
+        "framework1_feature1": 0,
+        "framework1_feature2": 0,
+        "framework1_feature3": 1,
+        "topic": "health"
+    },
+    {
+        "id": 19,
+        "text": "\"The law says that mental health must be treated the same as physical health,\" but coverage by health insurers is unequal.",
+        "framework1_feature1": 0,
+        "framework1_feature2": 0,
+        "framework1_feature3": 1,
+        "topic": "health"
+    },
+    {
+        "id": 20,
+        "text": "\"More Americans are uninsured today than when (President Donald) Trump took office.\"",
+        "framework1_feature1": 0,
+        "framework1_feature2": 0,
+        "framework1_feature3": 1,
+        "topic": "health"
+    },
+    {
+        "id": 21,
+        "text": "\"The United States is the ONLY industrialized country without universal healthcare.\"",
+        "framework1_feature1": 0,
+        "framework1_feature2": 0,
+        "framework1_feature3": 1,
+        "topic": "health"
+    },
+    {
+        "id": 22,
+        "text": "\"I actually in 2005 ran on Medicare for all.\"",
+        "framework1_feature1": 0,
+        "framework1_feature2": 0,
+        "framework1_feature3": 1,
+        "topic": "health"
+    },
+    {
+        "id": 23,
+        "text": "\"Weve had a 30% increase in suicides in this country in just 15 years.\"",
+        "framework1_feature1": 1,
+        "framework1_feature2": 0,
+        "framework1_feature3": 0,
+        "topic": "health"
+    },
+    {
+        "id": 24,
+        "text": "\"Big pharmaceuticals pay off they literally pay off generics to keep the prices and the competition off the market.\"",
+        "framework1_feature1": 0,
+        "framework1_feature2": 0,
+        "framework1_feature3": 1,
+        "topic": "health"
+    },
+    {
+        "id": 25,
+        "text": "The Affordable Care Act \"provided over 200,000 West Virginians with health care coverage.\"",
+        "framework1_feature1": 1,
+        "framework1_feature2": 0,
+        "framework1_feature3": 0,
+        "topic": "health"
+    },
+    {
+        "id": 26,
+        "text": "\"Wisconsin (has) the highest infant mortality rate for black babies nationwide.\"",
+        "framework1_feature1": 1,
+        "framework1_feature2": 0,
+        "framework1_feature3": 0,
+        "topic": "health"
+    },
+    {
+        "id": 27,
+        "text": "\"Right now, 1 in 4 Texas women of reproductive age are uninsured, totaling 1.5 million Texas women.\"",
+        "framework1_feature1": 1,
+        "framework1_feature2": 0,
+        "framework1_feature3": 0,
+        "topic": "health"
+    },
+    {
+        "id": 28,
+        "text": "\"More than a million Californians\" do not have \"clean water to bathe in or drink.\"",
+        "framework1_feature1": 1,
+        "framework1_feature2": 0,
+        "framework1_feature3": 0,
+        "topic": "health"
+    },
+    {
+        "id": 29,
+        "text": "West Virginia \"has the highest overdose rate per capita of any state in our nation.\"",
+        "framework1_feature1": 0,
+        "framework1_feature2": 0,
+        "framework1_feature3": 1,
+        "topic": "health"
+    },
+    {
+        "id": 30,
+        "text": "\"Matt Rosendale supports plans that dont have to cover (pre-existing conditions).\"",
+        "framework1_feature1": 0,
+        "framework1_feature2": 1,
+        "framework1_feature3": 0,
+        "topic": "health"
+    },
+    {
+        "id": 31,
+        "text": "\"Black lung cases are at a 25-year high.\"",
+        "framework1_feature1": 0,
+        "framework1_feature2": 0,
+        "framework1_feature3": 1,
+        "topic": "health"
+    },
+    {
+        "id": 32,
+        "text": "Says Rick Scotts \"hospital company stole millions, defrauding the militarys health care program.\"",
+        "framework1_feature1": 0,
+        "framework1_feature2": 1,
+        "framework1_feature3": 0,
+        "topic": "health"
+    },
+    {
+        "id": 33,
+        "text": "Says a Josh Hawley lawsuit \"would take away important prescription drug coverage for seniors through Medicare and end all of the consumer protections under the ACA.\"",
+        "framework1_feature1": 0,
+        "framework1_feature2": 1,
+        "framework1_feature3": 0,
+        "topic": "health"
+    },
+    {
+        "id": 34,
+        "text": "West Virginia \"has the highest overdose death rate in the nation.\"",
+        "framework1_feature1": 0,
+        "framework1_feature2": 0,
+        "framework1_feature3": 1,
+        "topic": "health"
+    },
+    {
+        "id": 35,
+        "text": "Reauthorizing the Childrens Health Insurance Program \"for six years saves $1 billion\" and doing it for 10 years saves $6 billion.",
+        "framework1_feature1": 1,
+        "framework1_feature2": 0,
+        "framework1_feature3": 0,
+        "topic": "health"
+    },
+    {
+        "id": 36,
+        "text": "Some states hit hardest by opioid deaths \"have more opioid prescriptions than residents.\"",
+        "framework1_feature1": 0,
+        "framework1_feature2": 0,
+        "framework1_feature3": 1,
+        "topic": "health"
+    },
+    {
+        "id": 37,
+        "text": "\"More than half of Planned Parenthood facilities are in rural or medically underserved areas.\"",
+        "framework1_feature1": 0,
+        "framework1_feature2": 0,
+        "framework1_feature3": 1,
+        "topic": "health"
+    },
+    {
+        "id": 38,
+        "text": "The federal government is prohibited \"from negotiating lower prescription drug prices for our senior citizens.\"",
+        "framework1_feature1": 0,
+        "framework1_feature2": 0,
+        "framework1_feature3": 1,
+        "topic": "health"
+    },
+    {
+        "id": 39,
+        "text": "Says Russ Feingold said that with Obamacare, \"we could keep our doctors and our plans, it was rated as the Lie of the Year.\"",
+        "framework1_feature1": 0,
+        "framework1_feature2": 1,
+        "framework1_feature3": 0,
+        "topic": "health"
+    },
+    {
+        "id": 40,
+        "text": "\"Illinois suffered 1,652 overdose deaths in 2014 ... of which 40 percent were associated with heroin. Illinois is ranked number one in the nation for a decline in treatment capacity between 2007 and 2012, and is now ranked the third worst in the country for state-funded treatment capacity.\"",
+        "framework1_feature1": 1,
+        "framework1_feature2": 0,
+        "framework1_feature3": 0,
+        "topic": "health"
+    },
+    {
+        "id": 41,
+        "text": "SaysDonald Trump called pregnant employees \"an inconvenience.\"",
+        "framework1_feature1": 0,
+        "framework1_feature2": 1,
+        "framework1_feature3": 0,
+        "topic": "health"
+    },
+    {
+        "id": 42,
+        "text": "\"Swaziland has the highest rate of HIV infection in the world.\"",
+        "framework1_feature1": 0,
+        "framework1_feature2": 0,
+        "framework1_feature3": 1,
+        "topic": "health"
+    },
+    {
+        "id": 43,
+        "text": "\"Nine million people have lower-cost HIV/AIDS medicine because of the work of the Clinton Foundation and my husband.\"",
+        "framework1_feature1": 1,
+        "framework1_feature2": 0,
+        "framework1_feature3": 0,
+        "topic": "health"
+    },
+    {
+        "id": 44,
+        "text": "\"Right now, here in Texas, wind power is already cheaper than dirty fossil fuels.\"",
+        "framework1_feature1": 0,
+        "framework1_feature2": 0,
+        "framework1_feature3": 1,
+        "topic": "technology"
+    },
+    {
+        "id": 45,
+        "text": "China is \"practicing how to blow up our satellites.\"",
+        "framework1_feature1": 0,
+        "framework1_feature2": 0,
+        "framework1_feature3": 1,
+        "topic": "technology"
+    },
+    {
+        "id": 46,
+        "text": "\"Our businesses have created jobs every single month since (Obamacare) became law.\"",
+        "framework1_feature1": 0,
+        "framework1_feature2": 0,
+        "framework1_feature3": 1,
+        "topic": "health"
+    },
+    {
+        "id": 47,
+        "text": "\"The State of Texas is funding  womens health services at historically high levels; they just increased their level another $50 million for the next two years.\"",
+        "framework1_feature1": 1,
+        "framework1_feature2": 0,
+        "framework1_feature3": 0,
+        "topic": "health"
+    },
+    {
+        "id": 48,
+        "text": "\"Of the 25 wealthiest nations, we're the only one that doesn't provide basic health coverage.\"",
+        "framework1_feature1": 1,
+        "framework1_feature2": 0,
+        "framework1_feature3": 0,
+        "topic": "health"
+    },
+    {
+        "id": 49,
+        "text": "\"To vote in Mexico every eligible Mexican citizen has to have a tamper-proof photo-ID card with a thumbprint and an embossed hologram.\"",
+        "framework1_feature1": 1,
+        "framework1_feature2": 0,
+        "framework1_feature3": 0,
+        "topic": "technology"
+    },
+    {
+        "id": 50,
+        "text": "\"As governor of Florida I defunded Planned Parenthood.\"",
+        "framework1_feature1": 0,
+        "framework1_feature2": 0,
+        "framework1_feature3": 1,
+        "topic": "health"
+    },
+    {
+        "id": 51,
+        "text": "Says Donald Trump \"has supported a Canadian-style universal health care system.\"",
+        "framework1_feature1": 0,
+        "framework1_feature2": 1,
+        "framework1_feature3": 0,
+        "topic": "health"
+    },
+    {
+        "id": 52,
+        "text": "\"You can fill out your tax return in Estonia online in five minutes.\"",
+        "framework1_feature1": 0,
+        "framework1_feature2": 0,
+        "framework1_feature3": 1,
+        "topic": "technology"
+    },
+    {
+        "id": 53,
+        "text": "Says Sen. Rand Paul, R-Ky., has stated that supporting the \"right to health care ... means you believe in slavery.\"",
+        "framework1_feature1": 0,
+        "framework1_feature2": 1,
+        "framework1_feature3": 0,
+        "topic": "health"
+    },
+    {
+        "id": 54,
+        "text": "\"More than 30 cents of every state tax dollar goes to Medicaid.\"",
+        "framework1_feature1": 0,
+        "framework1_feature2": 0,
+        "framework1_feature3": 1,
+        "topic": "health"
+    },
+    {
+        "id": 55,
+        "text": "The potential Iran nuclear agreement would limit Iran to the number of centrifuges needed for a weapon but too few for a nuclear power program.",
+        "framework1_feature1": 0,
+        "framework1_feature2": 0,
+        "framework1_feature3": 1,
+        "topic": "technology"
+    },
+    {
+        "id": 56,
+        "text": "\"Measles is one of the most common causes of child blindness worldwide.\"",
+        "framework1_feature1": 0,
+        "framework1_feature2": 0,
+        "framework1_feature3": 1,
+        "topic": "health"
+    },
+    {
+        "id": 57,
+        "text": "CDC says expect a polio-like outbreak coming in children in the next four months.",
+        "framework1_feature1": 0,
+        "framework1_feature2": 1,
+        "framework1_feature3": 0,
+        "topic": "health"
+    },
+    {
+        "id": 58,
+        "text": "I dont believe the science suggests that young people should be vaccinated. I dont believe that young people should have to wear masks at school. Im not sure the science is settled on that at all.",
+        "framework1_feature1": 0,
+        "framework1_feature2": 1,
+        "framework1_feature3": 0,
+        "topic": "health"
+    },
+    {
+        "id": 59,
+        "text": "Friendly reminder: Cigarettes are FDA approved.",
+        "framework1_feature1": 0,
+        "framework1_feature2": 1,
+        "framework1_feature3": 0,
+        "topic": "health"
+    },
+    {
+        "id": 60,
+        "text": "Thalidomide was FDA-approved for pregnant women in the 1960s.",
+        "framework1_feature1": 0,
+        "framework1_feature2": 1,
+        "framework1_feature3": 0,
+        "topic": "health"
+    },
+    {
+        "id": 61,
+        "text": "75 doctors in South Florida walked out in protest as their hospital was flooded with unvaccinated COVID-19 patients",
+        "framework1_feature1": 0,
+        "framework1_feature2": 1,
+        "framework1_feature3": 0,
+        "topic": "health"
+    },
+    {
+        "id": 62,
+        "text": "Pfizer CEO has not yet had vaccine.",
+        "framework1_feature1": 0,
+        "framework1_feature2": 1,
+        "framework1_feature3": 0,
+        "topic": "health"
+    },
+    {
+        "id": 63,
+        "text": "Says showing up at the front doors of peoples houses and violating HIPAA laws by requesting private medical information regarding their vaccination status is unacceptable and illegal.",
+        "framework1_feature1": 1,
+        "framework1_feature2": 0,
+        "framework1_feature3": 0,
+        "topic": "health"
+    },
+    {
+        "id": 64,
+        "text": "Says Facebook imposes a 7% limit on a users sharing.",
+        "framework1_feature1": 0,
+        "framework1_feature2": 0,
+        "framework1_feature3": 1,
+        "topic": "technology"
+    },
+    {
+        "id": 65,
+        "text": "Facebook said that if you support the NRA you will get kicked off.",
+        "framework1_feature1": 0,
+        "framework1_feature2": 1,
+        "framework1_feature3": 0,
+        "topic": "technology"
+    },
+    {
+        "id": 66,
+        "text": "A photo shows Mike Tyson wearing a T-shirt with an anti-vaccine message.",
+        "framework1_feature1": 0,
+        "framework1_feature2": 1,
+        "framework1_feature3": 0,
+        "topic": "health"
+    },
+    {
+        "id": 67,
+        "text": "Unlike marijuana, medical cannabis oil cannot get you high.",
+        "framework1_feature1": 0,
+        "framework1_feature2": 0,
+        "framework1_feature3": 1,
+        "topic": "health"
+    },
+    {
+        "id": 68,
+        "text": "\"Before World War II, very few people actually had health insurance.\"",
+        "framework1_feature1": 0,
+        "framework1_feature2": 0,
+        "framework1_feature3": 1,
+        "topic": "health"
+    },
+    {
+        "id": 69,
+        "text": "Says Sen. Rand Pauls 2011 budget \"included a big cut in the CDC.\"",
+        "framework1_feature1": 0,
+        "framework1_feature2": 0,
+        "framework1_feature3": 1,
+        "topic": "health"
+    },
+    {
+        "id": 70,
+        "text": "\"Ninety-five percent of Oregonians now have health insurance coverage, tens of thousands for the very first time.\"",
+        "framework1_feature1": 1,
+        "framework1_feature2": 0,
+        "framework1_feature3": 0,
+        "topic": "health"
+    },
+    {
+        "id": 71,
+        "text": "Says Scott Brown \"co-sponsored legislation to let employers deny women coverage for birth control.\"",
+        "framework1_feature1": 0,
+        "framework1_feature2": 1,
+        "framework1_feature3": 0,
+        "topic": "health"
+    },
+    {
+        "id": 72,
+        "text": "Uncompensated care has \"gone down by 30 percent just in the first few months\" of Medicaid expansion in the states that adopted it.",
+        "framework1_feature1": 1,
+        "framework1_feature2": 0,
+        "framework1_feature3": 0,
+        "topic": "health"
+    },
+    {
+        "id": 73,
+        "text": "\"There are already more American jobs in the solar industry than in coal mining.\"",
+        "framework1_feature1": 0,
+        "framework1_feature2": 0,
+        "framework1_feature3": 1,
+        "topic": "technology"
+    },
+    {
+        "id": 74,
+        "text": "Says Dan Patrick has \"called immigration into Texas an invasion\" and \"said immigrants coming into Texas bring third-world diseases.\"",
+        "framework1_feature1": 0,
+        "framework1_feature2": 1,
+        "framework1_feature3": 0,
+        "topic": "health"
+    },
+    {
+        "id": 75,
+        "text": "\"Marijuana is less addictive than both alcohol and tobacco.\"",
+        "framework1_feature1": 0,
+        "framework1_feature2": 0,
+        "framework1_feature3": 1,
+        "topic": "health"
+    },
+    {
+        "id": 76,
+        "text": "Nearly 40 percent of his McAllen-area constituents suffer from obesity.",
+        "framework1_feature1": 0,
+        "framework1_feature2": 0,
+        "framework1_feature3": 1,
+        "topic": "health"
+    },
+    {
+        "id": 77,
+        "text": "\"We, the bishops of the United States -- can you believe it -- in 1919 came out for more affordable, more comprehensive, more universal health care.\"",
+        "framework1_feature1": 1,
+        "framework1_feature2": 0,
+        "framework1_feature3": 0,
+        "topic": "health"
+    },
+    {
+        "id": 78,
+        "text": "\"A million people  could get health insurance right away\" if Texas expanded Medicaid under Obamacare.",
+        "framework1_feature1": 0,
+        "framework1_feature2": 0,
+        "framework1_feature3": 1,
+        "topic": "health"
+    },
+    {
+        "id": 79,
+        "text": "Says Florida refused to allow theinsurance commissioner to \"negotiate lower rates with companies or refuse rates that are too high\" under Obamacare.",
+        "framework1_feature1": 1,
+        "framework1_feature2": 0,
+        "framework1_feature3": 0,
+        "topic": "health"
+    },
+    {
+        "id": 80,
+        "text": "World Health Organization wants to BAN all women aged 18-50 from drinking alcohol.",
+        "framework1_feature1": 0,
+        "framework1_feature2": 0,
+        "framework1_feature3": 1,
+        "topic": "health"
+    },
+    {
+        "id": 81,
+        "text": "The unvaccinated have escaped every single strain or 'variant of SARS-CoV-2.",
+        "framework1_feature1": 0,
+        "framework1_feature2": 0,
+        "framework1_feature3": 1,
+        "topic": "health"
+    },
+    {
+        "id": 82,
+        "text": "AstraZeneca means weapon that kills.",
+        "framework1_feature1": 0,
+        "framework1_feature2": 0,
+        "framework1_feature3": 1,
+        "topic": "technology"
+    },
+    {
+        "id": 83,
+        "text": "\"Within the three miles surrounding the University Circle area, infant mortality exceeds some Third World countries.\"",
+        "framework1_feature1": 0,
+        "framework1_feature2": 0,
+        "framework1_feature3": 1,
+        "topic": "health"
+    },
+    {
+        "id": 84,
+        "text": "\"Three in four low-income workers dont have any paid sick days available.\"",
+        "framework1_feature1": 0,
+        "framework1_feature2": 0,
+        "framework1_feature3": 1,
+        "topic": "health"
+    },
+    {
+        "id": 85,
+        "text": "Video shows Israels defense system.",
+        "framework1_feature1": 0,
+        "framework1_feature2": 0,
+        "framework1_feature3": 1,
+        "topic": "technology"
+    },
+    {
+        "id": 86,
+        "text": "Businesses aren't allowed to ask customers if theyve been vaccinated because there are HIPPA laws.",
+        "framework1_feature1": 1,
+        "framework1_feature2": 0,
+        "framework1_feature3": 0,
+        "topic": "health"
+    },
+    {
+        "id": 87,
+        "text": "Texas could be very close to herd immunity.",
+        "framework1_feature1": 0,
+        "framework1_feature2": 0,
+        "framework1_feature3": 1,
+        "topic": "health"
+    },
+    {
+        "id": 88,
+        "text": "Says the 1986 Vaccine protection act resulted in the biggest jump in shots for children because it gave drug manufacturers exemption for responsibility of killing people.",
+        "framework1_feature1": 1,
+        "framework1_feature2": 0,
+        "framework1_feature3": 0,
+        "topic": "health"
+    },
+    {
+        "id": 89,
+        "text": "6000% Increase in Reported Vaccine Deaths 1st Quarter 2021 Compared to 1st Quarter 2020",
+        "framework1_feature1": 1,
+        "framework1_feature2": 0,
+        "framework1_feature3": 0,
+        "topic": "health"
+    },
+    {
+        "id": 90,
+        "text": "Per the CDC, there are nearly twice as many vaccine-related deaths so far in 2021 (1,755) than all the vaccine deaths this past decade (994).",
+        "framework1_feature1": 1,
+        "framework1_feature2": 0,
+        "framework1_feature3": 0,
+        "topic": "health"
+    },
+    {
+        "id": 91,
+        "text": "If I dont take the vaccine, Im at risk for covid. If I do take the vaccine, Im still at risk for covid PLUS Im at risk for permanent vaccine side effects. Therefore Im reducing my risk by not taking the vaccine. Thats the real science.",
+        "framework1_feature1": 0,
+        "framework1_feature2": 0,
+        "framework1_feature3": 1,
+        "topic": "health"
+    },
+    {
+        "id": 92,
+        "text": "Finally, a judge has ruled Dominion voting machines were designed to create fraud.",
+        "framework1_feature1": 0,
+        "framework1_feature2": 0,
+        "framework1_feature3": 1,
+        "topic": "technology"
+    },
+    {
+        "id": 93,
+        "text": "\"While he was president, President Trump never encouraged Americans to get vaccinated.\"",
+        "framework1_feature1": 0,
+        "framework1_feature2": 1,
+        "framework1_feature3": 0,
+        "topic": "health"
+    },
+    {
+        "id": 94,
+        "text": "Instagram has been limiting our posts so that no more than 7% of our friends see our posts.",
+        "framework1_feature1": 1,
+        "framework1_feature2": 0,
+        "framework1_feature3": 0,
+        "topic": "technology"
+    },
+    {
+        "id": 95,
+        "text": "\"Water transportation is the most fuel efficient, least polluting, safest, and least expensive means of moving cargo.\"",
+        "framework1_feature1": 0,
+        "framework1_feature2": 0,
+        "framework1_feature3": 1,
+        "topic": "technology"
+    },
+    {
+        "id": 96,
+        "text": "\"Every poll you see, the overwhelming majority of people want [E-Verify].\"",
+        "framework1_feature1": 0,
+        "framework1_feature2": 0,
+        "framework1_feature3": 1,
+        "topic": "technology"
+    },
+    {
+        "id": 97,
+        "text": "\"More than half of the births in Texas are paid for by Medicaid.\"",
+        "framework1_feature1": 0,
+        "framework1_feature2": 0,
+        "framework1_feature3": 1,
+        "topic": "health"
+    },
+    {
+        "id": 98,
+        "text": "\"Gingrich supported individual health insurance mandates.\"",
+        "framework1_feature1": 0,
+        "framework1_feature2": 0,
+        "framework1_feature3": 1,
+        "topic": "health"
+    },
+    {
+        "id": 99,
+        "text": "You may have driven the length of a football field in the five seconds it takes to check a text.",
+        "framework1_feature1": 0,
+        "framework1_feature2": 0,
+        "framework1_feature3": 1,
+        "topic": "technology"
+    },
+    {
+        "id": 100,
+        "text": "\"A lot of these migrants that are coming, we have no way to screen their backgrounds for either health or for security.\"",
+        "framework1_feature1": 0,
+        "framework1_feature2": 0,
+        "framework1_feature3": 1,
+        "topic": "health"
+    },
+    {
+        "id": 101,
+        "text": "Myanmar used Dominion Voting Systems.",
+        "framework1_feature1": 0,
+        "framework1_feature2": 0,
+        "framework1_feature3": 1,
+        "topic": "technology"
+    },
+    {
+        "id": 102,
+        "text": "Republicans have no way to communicate after tech companies cut off Parler.",
+        "framework1_feature1": 0,
+        "framework1_feature2": 0,
+        "framework1_feature3": 1,
+        "topic": "technology"
+    },
+    {
+        "id": 103,
+        "text": "68% error rate in Michigan Voting Machines. Should be, by law, a tiny percentage of one percent.",
+        "framework1_feature1": 1,
+        "framework1_feature2": 0,
+        "framework1_feature3": 0,
+        "topic": "technology"
+    },
+    {
+        "id": 104,
+        "text": "Facebook removed the title of President from Donald Trump and designated him as Political Candidate.",
+        "framework1_feature1": 0,
+        "framework1_feature2": 0,
+        "framework1_feature3": 1,
+        "topic": "technology"
+    },
+    {
+        "id": 105,
+        "text": "Mitt Romney has been asked to lead Health and Human Services in Biden administration.",
+        "framework1_feature1": 0,
+        "framework1_feature2": 0,
+        "framework1_feature3": 1,
+        "topic": "health"
+    },
+    {
+        "id": 106,
+        "text": "Says Joe Biden had an iPad at his podium during the debate.",
+        "framework1_feature1": 0,
+        "framework1_feature2": 1,
+        "framework1_feature3": 0,
+        "topic": "technology"
+    },
+    {
+        "id": 107,
+        "text": "CDC just cancelled Halloween for kids.",
+        "framework1_feature1": 0,
+        "framework1_feature2": 1,
+        "framework1_feature3": 0,
+        "topic": "health"
+    },
+    {
+        "id": 108,
+        "text": "Chris Christie is in ICU and reported to be put on a ventilator.",
+        "framework1_feature1": 0,
+        "framework1_feature2": 0,
+        "framework1_feature3": 1,
+        "topic": "health"
+    },
+    {
+        "id": 109,
+        "text": "Says Facebook is banning Trump from advertising for president.",
+        "framework1_feature1": 0,
+        "framework1_feature2": 1,
+        "framework1_feature3": 0,
+        "topic": "technology"
+    },
+    {
+        "id": 110,
+        "text": "Facebook is creating these #firstborn and #secondborn challenges so the IRS can confirm who yall claiming on them taxes as dependents.",
+        "framework1_feature1": 0,
+        "framework1_feature2": 1,
+        "framework1_feature3": 0,
+        "topic": "technology"
+    },
+    {
+        "id": 111,
+        "text": "Says his policy is that health insurance should always cover preexisting conditions. For anyone. Period.",
+        "framework1_feature1": 0,
+        "framework1_feature2": 1,
+        "framework1_feature3": 0,
+        "topic": "health"
+    },
+    {
+        "id": 112,
+        "text": "Clicking on this link in a text message lets sex traffickers track you.",
+        "framework1_feature1": 0,
+        "framework1_feature2": 0,
+        "framework1_feature3": 1,
+        "topic": "technology"
+    },
+    {
+        "id": 113,
+        "text": "The coronavirus has seen a big surge in New Zealand. It's terrible. We don't want that.\"",
+        "framework1_feature1": 0,
+        "framework1_feature2": 1,
+        "framework1_feature3": 0,
+        "topic": "health"
+    },
+    {
+        "id": 114,
+        "text": "Children are almost immune from this disease.",
+        "framework1_feature1": 0,
+        "framework1_feature2": 0,
+        "framework1_feature3": 1,
+        "topic": "health"
+    },
+    {
+        "id": 115,
+        "text": "Says Sen. Thom Tillis doesnt think restaurant workers should have to wash their hands.",
+        "framework1_feature1": 0,
+        "framework1_feature2": 1,
+        "framework1_feature3": 0,
+        "topic": "health"
+    },
+    {
+        "id": 116,
+        "text": "\"New study: The flu vaccine is 'significantly associated' with an increased risk of coronavirus\"",
+        "framework1_feature1": 0,
+        "framework1_feature2": 1,
+        "framework1_feature3": 0,
+        "topic": "health"
+    }
+]
