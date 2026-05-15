@@ -9,8 +9,8 @@ Through comprehensive data analysis and computational research, this project exa
 - **Understand** cognitive mechanisms behind misinformation acceptance and believability judgments
 - **Identify** patterns in how perception is shaped by false information using tweet and news data
 - **Develop** predictive models for misinformation classification
-- **Extract** feature-based representations to understand persuasion patterns in misleading content
-- **Provide** insights for better information literacy and fact-checking strategies
+- **Extract** feature-based representations to understand persuasion patterns in content
+- **Provide** insights for better strategies
 
 ## Repository Structure
 
@@ -55,7 +55,7 @@ Misinformation-Perception-Thesis/
 ### 1. **Experimental Survey Data Analysis**
 Analyzes survey data from multiple sources including TruthSeeker and synthetic datasets. Explores how users perceive and judge the believability of information.
 
-- `Synthetic_Data_Analysis.ipynb` - Synthetic data exploration and statistical analysis
+- `Synthetic_Data_Analysis.ipynb` - Analysis of experiment conducted on Synthetic data
 - `TruthSeeker_Data_Analysis.ipynb` - Analysis of real-world TruthSeeker survey responses
 - `Data/` - Directory containing survey datasets
 
@@ -65,7 +65,7 @@ Develops feature engineering approaches to understand persuasion patterns in mis
 - `FakeNewsNet_advanced_persuasion_patterns_1.ipynb` - Advanced feature extraction and persuasion pattern identification
 
 ### 3. **TruthSeeker Believability Analysis**
-Analyzes patterns in how tweets and claims are perceived as believable or credible.
+Analyzes patterns in how tweets and claims are perceived as believable or credible in real-world online setting.
 
 - `truthseeker_tweet_pattern_analysis.ipynb` - Tweet-level credibility pattern analysis
 - `classified_labels.csv` - Machine-classified credibility labels
