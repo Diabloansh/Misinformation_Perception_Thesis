@@ -17,17 +17,23 @@ Through comprehensive data analysis and computational research, this project exa
 ```
 Misinformation-Perception-Thesis/
 ├── README.md                                      # This file
-├── Classification_Model/                          # Machine learning classification models
-│   ├── Final_Classification_Model.ipynb          # Final trained classification model
-│   └── Experimental_Models/                       # Experimental model iterations
 ├── Experimental_Survey_Data_Analysis/             # Survey data analysis and exploration
 │   ├── Synthetic_Data_Analysis.ipynb             # Analysis of synthetic experimental data
 │   ├── TruthSeeker_Data_Analysis.ipynb           # Analysis of TruthSeeker dataset
 │   └── Data/                                      # Survey datasets
 ├── Feature_Based_Representation/                  # Feature engineering and analysis
 │   └── FakeNewsNet_advanced_persuasion_patterns_1.ipynb  # Persuasion pattern analysis
-└── TruthSeeker_Believability_Analysis/            # Believability and credibility analysis
-    └── truthseeker_tweet_pattern_analysis.ipynb  # Tweet pattern analysis for credibility
+├── TruthSeeker_Believability_Analysis/            # Believability and credibility analysis
+│   ├── truthseeker_tweet_pattern_analysis.ipynb  # Tweet pattern analysis for credibility
+│   ├── classified_labels.csv                     # Classified credibility labels
+│   └── manual_labels.json                        # Manual credibility annotations
+└── MisinformationHeadlineClassifier/              # Advanced classification models
+    ├── README.md                                 # Classifier-specific documentation
+    ├── requirements.txt                          # Python dependencies
+    ├── Binary_model/                             # Binary classification model
+    ├── hierarchical_model/                       # Hierarchical classification model
+    ├── main_route_classifier/                    # Main routing classifier
+    └── supplementary_scripts/                    # Supporting utility scripts
 ```
 
 ## Technologies Used
@@ -42,7 +48,7 @@ Misinformation-Perception-Thesis/
 - **matplotlib & seaborn** - Data visualization
 - **scikit-learn** - Machine learning and statistical analysis
 - **nltk/spaCy** - Natural language processing
-- Additional dependencies as specified in individual notebooks
+- Additional dependencies as specified in individual notebooks and `MisinformationHeadlineClassifier/requirements.txt`
 
 ## Project Components
 
@@ -51,21 +57,28 @@ Analyzes survey data from multiple sources including TruthSeeker and synthetic d
 
 - `Synthetic_Data_Analysis.ipynb` - Synthetic data exploration and statistical analysis
 - `TruthSeeker_Data_Analysis.ipynb` - Analysis of real-world TruthSeeker survey responses
+- `Data/` - Directory containing survey datasets
 
 ### 2. **Feature-Based Representation**
 Develops feature engineering approaches to understand persuasion patterns in misinformation.
 
 - `FakeNewsNet_advanced_persuasion_patterns_1.ipynb` - Advanced feature extraction and persuasion pattern identification
 
-### 3. **Classification Model**
-Builds and trains machine learning models to classify misinformation.
-
-- `Final_Classification_Model.ipynb` - Final tuned classification model for misinformation detection
-
-### 4. **Believability Analysis**
+### 3. **TruthSeeker Believability Analysis**
 Analyzes patterns in how tweets and claims are perceived as believable or credible.
 
 - `truthseeker_tweet_pattern_analysis.ipynb` - Tweet-level credibility pattern analysis
+- `classified_labels.csv` - Machine-classified credibility labels
+- `manual_labels.json` - Manual credibility annotations
+
+### 4. **Misinformation Headline Classifier**
+Comprehensive classification system with multiple model architectures for misinformation detection.
+
+- `Binary_model/` - Binary classification (misinformation vs. genuine)
+- `hierarchical_model/` - Multi-level hierarchical classification
+- `main_route_classifier/` - Main routing classifier for initial classification decisions
+- `supplementary_scripts/` - Utility scripts for data preprocessing and evaluation
+- See `MisinformationHeadlineClassifier/README.md` for detailed documentation
 
 ## Getting Started
 
@@ -89,12 +102,18 @@ python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
 
-3. **Install dependencies:**
+3. **Install dependencies for analysis notebooks:**
 ```bash
 pip install jupyter pandas numpy matplotlib seaborn scikit-learn nltk spacy
 ```
 
-4. **Launch Jupyter Notebook:**
+4. **For the Misinformation Headline Classifier module:**
+```bash
+cd MisinformationHeadlineClassifier
+pip install -r requirements.txt
+```
+
+5. **Launch Jupyter Notebook:**
 ```bash
 jupyter notebook
 ```
@@ -113,8 +132,9 @@ jupyter notebook
 3. **Credibility Patterns:**
    - Review `TruthSeeker_Believability_Analysis/truthseeker_tweet_pattern_analysis.ipynb` for believability insights
 
-4. **Classification:**
-   - Examine `Classification_Model/Final_Classification_Model.ipynb` for the predictive model approach
+4. **Classification Models:**
+   - Examine `MisinformationHeadlineClassifier/` for advanced classification approaches
+   - Refer to `MisinformationHeadlineClassifier/README.md` for model-specific details
 
 ## Data
 
@@ -122,16 +142,19 @@ The project utilizes multiple datasets:
 - **TruthSeeker Survey Data** - Real-world credibility assessments from user surveys
 - **Synthetic Experimental Data** - Generated data for controlled analysis
 - **FakeNewsNet Dataset** - Misinformation news articles for pattern analysis
+- **Manual Labels** - Human-annotated credibility classifications
+- **Classified Labels** - Machine-classified credibility predictions
 
 ## Methodology
 
 - **Research Focus:** Understanding how misinformation affects believability judgments
 - **Data Collection:** Combination of survey-based and crowdsourced data
 - **Analysis Approach:** Feature extraction, statistical analysis, and machine learning classification
+- **Model Architecture:** Multiple classification approaches including binary, hierarchical, and routing classifiers
 - **Evaluation:** Cross-validation and performance metrics for model assessment
 
 ## Author
 
 **Anagha Bhavsar** - [AnaghaBh](https://github.com/AnaghaBh)
 
-**Last Updated:** April 2026
+**Last Updated:** May 2026
