@@ -74,7 +74,7 @@ Analyzes patterns in how tweets and claims are perceived as believable or credib
 ### 4. **Misinformation Headline Classifier**
 Comprehensive classification system with multiple model architectures for misinformation detection.
 
-- `Binary_model/` - Binary classification (misinformation vs. genuine)
+- `Binary_model/` - Binary classification
 - `hierarchical_model/` - Multi-level hierarchical classification
 - `main_route_classifier/` - Main routing classifier for initial classification decisions
 - `supplementary_scripts/` - Utility scripts for data preprocessing and evaluation
