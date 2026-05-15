@@ -49,7 +49,7 @@ Misinformation-Perception-Thesis/
 ### 1. **Experimental Survey Data Analysis**
 Analyzes survey data from multiple sources including TruthSeeker and synthetic datasets. Explores how users perceive and judge the believability of information.
 
-- `Synthetic_Data_Analysis.ipynb` - Experimental data exploration and statistical analysis
+- `Synthetic_Data_Analysis.ipynb` - Synthetic data exploration and statistical analysis
 - `TruthSeeker_Data_Analysis.ipynb` - Analysis of real-world TruthSeeker survey responses
 
 ### 2. **Feature-Based Representation**
