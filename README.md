@@ -92,8 +92,8 @@ Comprehensive classification system with multiple model architectures for misinf
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/AnaghaBh/Misinformation-Perception-Thesis.git
-cd Misinformation-Perception-Thesis
+git clone https://github.com/Diabloansh/Misinformation_Perception_Thesis.git
+cd Misinformation_Perception_Thesis
 ```
 
 2. **Create a virtual environment:**
@@ -155,6 +155,6 @@ The project utilizes multiple datasets:
 
 ## Author
 
-**Anagha Bhavsar** - [AnaghaBh](https://github.com/AnaghaBh)
+**Ansh Madan** - [Diabloansh](https://github.com/Diabloansh)
 
 **Last Updated:** May 2026
